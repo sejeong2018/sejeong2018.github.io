@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sejeong 2018</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Sejeong 2018</description>
+    <title>Blog on Sejeong 2018</title>
+    <link>http://example.org/tags/blog/</link>
+    <description>Recent content in Blog on Sejeong 2018</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Aug 2018 07:47:13 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,15 +20,6 @@
       <description>Facebook은 너무 개인 적이고 Instagram에 올릴 사진들은 요즘 찍지 않아서, 블로깅 툴을 검색하다 옛 감성 풀풀 풍기는 Static Site Generator인 Hugo를 발견하다.
  Good Hugo tutorial Host on Github  Hugo로 생성된 페지를 Github에 호스팅 하는 것의 핵심은
  Github는 &amp;lt;USERNAME&amp;gt;.github.io에 프로젝트를 웹 root로 한다  는 것을 이용해서 같은 이름의 프로젝트에 Hugo로 생성되는 public 폴더를 업로드 하는 것이다. Hugo 프로젝트 폴더도 Github에 올려두면 어느 장소에서건 체크아웃해서 작업할 수 있다.</description>
-    </item>
-    
-    <item>
-      <title>A</title>
-      <link>http://example.org/a/</link>
-      <pubDate>Tue, 07 Aug 2018 21:40:13 -0700</pubDate>
-      
-      <guid>http://example.org/a/</guid>
-      <description>This is a md. First test posting.</description>
     </item>
     
   </channel>
